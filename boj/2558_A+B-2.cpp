@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(void)
+int problem_2558()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
