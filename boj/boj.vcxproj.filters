@@ -26,5 +26,8 @@
     <ClCompile Include="2558_A+B-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1001_A-B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
