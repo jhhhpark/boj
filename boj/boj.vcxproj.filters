@@ -32,5 +32,8 @@
     <ClCompile Include="1008_A_divide_B.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1152_word_count.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
