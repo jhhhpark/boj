@@ -92,5 +92,8 @@
     <ClCompile Include="9498_test_score.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10171_cat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
