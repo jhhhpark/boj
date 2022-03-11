@@ -71,5 +71,8 @@
     <ClCompile Include="2742_reverse_put_N.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2753_leapyear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

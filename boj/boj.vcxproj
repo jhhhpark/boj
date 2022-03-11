@@ -189,6 +189,7 @@
     </ClCompile>
     <ClCompile Include="2741_put_N.cpp" />
     <ClCompile Include="2742_reverse_put_N.cpp" />
+    <ClCompile Include="2753_leapyear.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
