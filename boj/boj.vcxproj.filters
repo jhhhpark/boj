@@ -62,5 +62,8 @@
     <ClCompile Include="2675_repeat_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2739_99dan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
