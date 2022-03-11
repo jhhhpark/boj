@@ -95,5 +95,8 @@
     <ClCompile Include="10171_cat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10172_dog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
