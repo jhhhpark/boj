@@ -83,5 +83,8 @@
     <ClCompile Include="2920_scale.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3052_mod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
