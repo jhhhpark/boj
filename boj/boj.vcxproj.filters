@@ -50,5 +50,8 @@
     <ClCompile Include="2475_number_of_verifications.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2557_Hello_World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
