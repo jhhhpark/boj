@@ -35,5 +35,8 @@
     <ClCompile Include="1152_word_count.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1330_compare_two_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
