@@ -47,5 +47,8 @@
     <ClCompile Include="2439_draw_star-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2475_number_of_verifications.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
