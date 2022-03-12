@@ -98,5 +98,8 @@
     <ClCompile Include="10172_dog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10809_find_alpha.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
