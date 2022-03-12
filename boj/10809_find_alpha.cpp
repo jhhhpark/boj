@@ -25,6 +25,6 @@ int main()
 	{
 		cout << aAlpha[i] - 1 << " ";
 	}
-
+	 
 	return 0;
 }
