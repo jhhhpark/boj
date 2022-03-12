@@ -101,5 +101,8 @@
     <ClCompile Include="10809_find_alpha.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10818_min_max.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
