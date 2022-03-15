@@ -113,10 +113,7 @@
     <ClCompile Include="2022_silvercup\2022_silvercup_A.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2022_silvercup\2022_silvercup_E.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2022_silvercup\2022_silvercup_B.cpp">
+    <ClCompile Include="class2\1018_chess_board.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
