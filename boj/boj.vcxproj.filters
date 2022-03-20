@@ -119,5 +119,8 @@
     <ClCompile Include="class2\1085_escape_in_rect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\1181_sort_word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
