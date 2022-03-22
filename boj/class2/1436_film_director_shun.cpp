@@ -5,16 +5,18 @@ using namespace std;
 bool isEndNum(int num)
 {
 	int cnt = 0;
-	while (num > 0)
+	while (num >= 666)
 	{
-		cnt = num % 10 == 6 ? cnt + 1 : 0;
-		num /= 10;
-		if (cnt >= 3)
+		if (num % 1000 == 666)
 		{
-			break;
+			return true;
+		}
+		else
+		{
+			num /= 10;
 		}
 	}
-	return cnt >= 3;
+	return false;
 }
 
 int problem_1436()
@@ -27,7 +29,8 @@ int problem_1436()
 	cin >> inputEndCount;
 	while (inputEndCount > 0)
 	{
-		if (isEndNum(++num) == true)
+		++num;
+		if (isEndNum(num) == true)
 		{
 			--inputEndCount;
 		}
