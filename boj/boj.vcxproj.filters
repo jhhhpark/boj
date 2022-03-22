@@ -122,5 +122,8 @@
     <ClCompile Include="class2\1181_sort_word.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\1259_number_of_palindromes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
