@@ -128,5 +128,8 @@
     <ClCompile Include="class2\1436_film_director_shun.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\1654_cut_LAN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
