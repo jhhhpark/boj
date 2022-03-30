@@ -143,5 +143,8 @@
     <ClCompile Include="class2\1966_printer_queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\1978_find_prime_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
