@@ -19,7 +19,7 @@ bool isPrimeNumber(int n)
 	return true;
 }
 
-int main()
+int problem_1978()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
