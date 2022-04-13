@@ -18,7 +18,7 @@ int countOfModifyBlock(char aInputBoard[][51], int x, int y, char aBlackBoard[][
 	return nBCnt < nWCnt ? nBCnt : nWCnt;
 }
 
-int Abs(int n)
+int Toggle(int n)
 {
 	return n < 0 ? ~n + 1 : n;
 }
@@ -35,8 +35,8 @@ int problem_1018()
 	{
 		for (int j = 0; j < 8; ++j)
 		{
-			int nbx = Abs(i % 2 - j % 2);
-			int nwx = Abs(1 - i % 2 - j % 2);
+			int nbx = Toggle(i % 2 - j % 2);
+			int nwx = Toggle(1 - i % 2 - j % 2);
 			aBlackBoard[i][j] = aBlock[nbx];
 			aWhiteBoard[i][j] = aBlock[nwx];
 		}
