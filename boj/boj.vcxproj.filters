@@ -152,5 +152,8 @@
     <ClCompile Include="class2\2164_card2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\2231_decompose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
