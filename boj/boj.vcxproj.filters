@@ -155,5 +155,8 @@
     <ClCompile Include="class2\2231_decompose.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\2292_honeycomb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
