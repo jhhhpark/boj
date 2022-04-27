@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int 2609_solution()
+int problem_2609()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
