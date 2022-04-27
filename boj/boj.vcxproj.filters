@@ -158,5 +158,8 @@
     <ClCompile Include="class2\2292_honeycomb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\2609_GCD_LCM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
