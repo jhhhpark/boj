@@ -167,5 +167,8 @@
     <ClCompile Include="class2\2775_will_be_president.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\2798_blackjack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
