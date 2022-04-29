@@ -173,5 +173,8 @@
     <ClCompile Include="class2\2805_cut_tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\2839_sugar_delivery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
