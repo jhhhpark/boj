@@ -179,5 +179,8 @@
     <ClCompile Include="class2\2869_climb_snail.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\4153_triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
