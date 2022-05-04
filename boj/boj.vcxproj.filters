@@ -185,5 +185,8 @@
     <ClCompile Include="class2\4949_a_balanced_world.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\7568_bulk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
