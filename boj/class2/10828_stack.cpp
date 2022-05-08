@@ -142,7 +142,7 @@ vector<string> split(string input, char delimiter)
 }
 
 
-int main()
+int problem_10828()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
