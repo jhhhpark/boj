@@ -230,5 +230,8 @@
     <ClCompile Include="class2\15829_Hashing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\18111_minecraft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
