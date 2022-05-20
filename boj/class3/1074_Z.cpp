@@ -8,7 +8,7 @@ int N, r, c;
 void Z(int length, int row, int column, int* count);
 int Pow(int n, int length);
 
-int main()
+int problem_1074()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
