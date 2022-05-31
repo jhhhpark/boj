@@ -245,5 +245,8 @@
     <ClCompile Include="class3\1107_remote_controller.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1260_DFS_BFS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
