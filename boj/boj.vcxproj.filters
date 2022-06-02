@@ -251,5 +251,8 @@
     <ClCompile Include="class3\1389_Kevin_Bacon_Six_Step_Rule.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1463_make_one.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
