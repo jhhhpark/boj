@@ -3,7 +3,7 @@
 using namespace std;
 
 #define MIN			0
-#define MAX			500000
+#define MAX_RELATION			500000
 
 int Abs(int n)
 {
@@ -52,7 +52,7 @@ int problem_1107()
 	}
 
 	int offset = 0;
-	while (N - offset >= MIN || N + offset <= MAX)
+	while (N - offset >= MIN || N + offset <= MAX_RELATION)
 	{
 		for (int i = 0; i < 2; ++i)
 		{
