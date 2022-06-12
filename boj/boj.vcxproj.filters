@@ -257,5 +257,8 @@
     <ClCompile Include="class3\1541_lost_parenthesis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1620_im_pocketmon_master_leedasom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
