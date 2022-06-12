@@ -260,5 +260,8 @@
     <ClCompile Include="class3\1620_im_pocketmon_master_leedasom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1676_factorial_zero_count.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
