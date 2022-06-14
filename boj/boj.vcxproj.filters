@@ -263,5 +263,8 @@
     <ClCompile Include="class3\1676_factorial_zero_count.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1697_hide_and_seek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
