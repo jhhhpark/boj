@@ -269,5 +269,8 @@
     <ClCompile Include="class3\1764_off_brand.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1780_count_of_paper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
