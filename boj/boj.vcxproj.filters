@@ -281,5 +281,8 @@
     <ClCompile Include="class3\1931_conference_room_assignment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\1992_quad_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
