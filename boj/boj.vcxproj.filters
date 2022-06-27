@@ -287,5 +287,8 @@
     <ClCompile Include="class3\2178_maze_exploration.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\2579_up_stair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
