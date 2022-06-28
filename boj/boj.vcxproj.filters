@@ -296,5 +296,8 @@
     <ClCompile Include="class3\2630_make_confetti.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\2667_numbering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
