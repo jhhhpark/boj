@@ -290,5 +290,8 @@
     <ClCompile Include="class3\2579_up_stair.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\2606_virus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
