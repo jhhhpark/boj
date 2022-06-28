@@ -293,5 +293,8 @@
     <ClCompile Include="class3\2606_virus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\2630_make_confetti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
