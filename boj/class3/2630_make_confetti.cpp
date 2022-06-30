@@ -2,17 +2,17 @@
 
 using namespace std;
 
-#define MAX_SIZE		129
+#define MAX_NUM_SIZE		129
 
 
-void CountOfPaper(int paper[][MAX_SIZE], int x, int y, int length, int* count);
-bool IsSamePaper(int paper[][MAX_SIZE], int x, int y, int length);
+void CountOfPaper(int paper[][MAX_NUM_SIZE], int x, int y, int length, int* count);
+bool IsSamePaper(int paper[][MAX_NUM_SIZE], int x, int y, int length);
 int problem_2630()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 
-	int paper[MAX_SIZE][MAX_SIZE] = { 0, };
+	int paper[MAX_NUM_SIZE][MAX_NUM_SIZE] = { 0, };
 	int count[2] = { 0, };
 	int length = 0;
 	cin >> length;
@@ -32,7 +32,7 @@ int problem_2630()
 	return 0;
 }
 
-void CountOfPaper(int paper[][MAX_SIZE], int x, int y, int length, int* count)
+void CountOfPaper(int paper[][MAX_NUM_SIZE], int x, int y, int length, int* count)
 {
 	if (length == 1 || IsSamePaper(paper, x, y, length) == true)
 	{
@@ -51,7 +51,7 @@ void CountOfPaper(int paper[][MAX_SIZE], int x, int y, int length, int* count)
 	return;
 }
 
-bool IsSamePaper(int paper[][MAX_SIZE], int x, int y, int length)
+bool IsSamePaper(int paper[][MAX_NUM_SIZE], int x, int y, int length)
 {
 	int value = paper[y][x];
 	for (int i = y; i < y + length; ++i)

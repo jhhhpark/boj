@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-#define MAX_SIZE		65
+#define MAX_NUM_SIZE		65
 
 bool IsSameValue(bool matrix[][65], int x, int y, int len);
 void QuadTree(bool matrix[][65], int x, int y, int len, string* result);
@@ -13,16 +13,16 @@ int problem_1992()
 	cin.tie(NULL);
 
 	string result;
-	result.reserve(MAX_SIZE * MAX_SIZE * 5);
-	bool matrix[MAX_SIZE][MAX_SIZE] = { false, };
+	result.reserve(MAX_NUM_SIZE * MAX_NUM_SIZE * 5);
+	bool matrix[MAX_NUM_SIZE][MAX_NUM_SIZE] = { false, };
 	int N = 0;
-	char input[MAX_SIZE] = { 0, };
+	char input[MAX_NUM_SIZE] = { 0, };
 	cin >> N;
 	cin.ignore();
 
 	for (int i = 1; i <= N; ++i)
 	{
-		cin.getline(input, MAX_SIZE);
+		cin.getline(input, MAX_NUM_SIZE);
 		for (int j = 1; j <= N; ++j)
 		{
 			matrix[i][j] = input[j - 1] - '0';

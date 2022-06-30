@@ -2,23 +2,23 @@
 #include <queue>
 using namespace std;
 
-#define MAX_SIZE		101
+#define MAX_NUM_SIZE		101
 
-int GetMoveCountOfMaze(int maze[][MAX_SIZE], int endX, int endY);
+int GetMoveCountOfMaze(int maze[][MAX_NUM_SIZE], int endX, int endY);
 
 int problem_2178()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 
-	int mazes[MAX_SIZE][MAX_SIZE] = { 0, };
+	int mazes[MAX_NUM_SIZE][MAX_NUM_SIZE] = { 0, };
 	int N = 0, M = 0, count = 0;
-	char input[MAX_SIZE] = { 0, };
+	char input[MAX_NUM_SIZE] = { 0, };
 	cin >> N >> M;
 	cin.ignore();
 	for (int i = 1; i <= N; ++i)
 	{
-		cin.getline(input, MAX_SIZE);
+		cin.getline(input, MAX_NUM_SIZE);
 		for (int j = 1; j <= M; ++j)
 		{
 			mazes[i][j] = input[j-1] - '0';
@@ -30,10 +30,10 @@ int problem_2178()
 	return 0;
 }
 
-int GetMoveCountOfMaze(int mazes[][MAX_SIZE], int endX, int endY)
+int GetMoveCountOfMaze(int mazes[][MAX_NUM_SIZE], int endX, int endY)
 {
 	int dir[2][4] = { { -1, 0, 1, 0 }, {0, 1, 0, -1} };
-	bool passed[MAX_SIZE][MAX_SIZE] = { false, };
+	bool passed[MAX_NUM_SIZE][MAX_NUM_SIZE] = { false, };
 	queue<pair<int, int>> log;
 	int beginX = 1, beginY = 1, count = 0;
 

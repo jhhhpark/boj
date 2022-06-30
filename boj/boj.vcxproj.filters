@@ -299,5 +299,8 @@
     <ClCompile Include="class3\2667_numbering.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\5430_AC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
