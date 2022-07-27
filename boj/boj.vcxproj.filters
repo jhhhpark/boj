@@ -302,5 +302,8 @@
     <ClCompile Include="class3\5430_AC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\5525_IOIOI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
