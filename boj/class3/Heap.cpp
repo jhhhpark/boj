@@ -151,6 +151,5 @@ int main(int argc, char* argv[])
 		int del = heap.DeleteData(i + 1);
 		cout << "size : " << heap.GetSize() << ", current Max : " << heap.Peek() << '\n';
 	}
-
 	return 0;
 }
