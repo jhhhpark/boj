@@ -272,7 +272,7 @@
     <ClCompile Include="class3\1780_count_of_paper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="class3\Heap.cpp">
+    <ClCompile Include="Data Structure\Heap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="class3\1927_min_heap.cpp">
@@ -327,6 +327,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="class3\11399_ATM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="class3\11403_find_a_route.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
