@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int problem_11659()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
