@@ -338,5 +338,8 @@
     <ClCompile Include="class3\11723_set.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\11724_number_of_connected_components.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
