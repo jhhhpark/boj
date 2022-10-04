@@ -347,5 +347,8 @@
     <ClCompile Include="class3\11727_2xn_tiling_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\17626_four_squares.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
