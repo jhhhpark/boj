@@ -353,5 +353,8 @@
     <ClCompile Include="class3\18870_coordinate_compression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\7569_tomato.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
