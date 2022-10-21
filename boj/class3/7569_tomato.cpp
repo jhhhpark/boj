@@ -5,7 +5,7 @@ using namespace std;
 
 #define RIPE			1
 #define NOT_RIPE		0
-#define NEVER_RIPE		-1
+#define NOTHING		-1
 
 int tomatoBox[101][101][101] = { 0, };
 int M, N, H;
