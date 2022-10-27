@@ -53,7 +53,7 @@ string Progress(int n, int ans)
 	}
 }
 
-int main()
+int problem_9019()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
