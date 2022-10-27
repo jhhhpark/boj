@@ -362,5 +362,8 @@
     <ClCompile Include="class3\7662_double_priority_queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\9019_DSLR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
