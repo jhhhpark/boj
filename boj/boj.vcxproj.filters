@@ -365,5 +365,8 @@
     <ClCompile Include="class3\9019_DSLR.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\10026_red_green_color_blindness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
