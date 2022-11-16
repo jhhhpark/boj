@@ -6,9 +6,6 @@ using namespace std;
 
 #define MAX_SIZE			100
 
-bool normalPass[MAX_SIZE][MAX_SIZE] = { false, };
-bool blindPass[MAX_SIZE][MAX_SIZE] = { false, };
-
 bool IsValidate(char ch, char picture, bool isNormal)
 {
 	if (isNormal == true || picture == 'B')
@@ -78,9 +75,11 @@ void CheckBoard(
 	return;
 }
 
-int Progress(int N, string board[], bool pass[][MAX_SIZE], bool isNormal)
+int Progress(int N, string board[], bool isNormal)
 {
 	int result = 0;
+	bool pass[MAX_SIZE][MAX_SIZE] = { false, };
+
 	for (int i = 0; i < N; ++i)
 	{
 		for (int j = 0; j < N; ++j)
@@ -114,8 +113,8 @@ int problem_10026()
 		getline(cin, board[i]);
 	}
 
-	int r1 = Progress(N, board, normalPass, true);
-	int r2 = Progress(N, board, blindPass, false);
+	int r1 = Progress(N, board, true);
+	int r2 = Progress(N, board, false);
 
 	cout << r1 << ' ' << r2 << '\n';
 	return 0;
