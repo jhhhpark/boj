@@ -362,7 +362,7 @@
     <ClCompile Include="class3\10026_red_green_color_blindness.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="class3\test.cpp">
+    <ClCompile Include="class1\25083_print_sprout.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
