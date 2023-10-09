@@ -110,9 +110,6 @@
     <ClCompile Include="class1\11720_sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2022_silvercup\2022_silvercup_A.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="class2\1018_chess_board.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -270,9 +267,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="class3\1780_count_of_paper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Data Structure\Heap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="class3\1927_min_heap.cpp">
