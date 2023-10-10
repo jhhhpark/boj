@@ -368,5 +368,8 @@
     <ClCompile Include="class1\27866_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class2\18110_solved_ac.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
