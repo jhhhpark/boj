@@ -365,5 +365,8 @@
     <ClCompile Include="class1\25083_print_sprout.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class1\27866_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
