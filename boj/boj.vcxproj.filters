@@ -374,5 +374,8 @@
     <ClCompile Include="class1\31430_A+B-C.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bronze\10699_today.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
