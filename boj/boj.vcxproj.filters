@@ -377,5 +377,8 @@
     <ClCompile Include="Bronze\10699_today.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bronze\7287_registry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
