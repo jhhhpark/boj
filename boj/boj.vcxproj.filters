@@ -371,5 +371,8 @@
     <ClCompile Include="class2\18110_solved_ac.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class1\31430_A+B-C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
