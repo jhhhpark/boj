@@ -404,5 +404,8 @@
     <ClCompile Include="level\Bronze\5\2744_대소문자바꾸기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="level\Bronze\3\2754_학점계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
