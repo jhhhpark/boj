@@ -398,5 +398,8 @@
     <ClCompile Include="level\Bronze\3\2738_행렬덧셈.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="level\Bronze\5\2743_단어길이재기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
