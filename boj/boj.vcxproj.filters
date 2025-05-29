@@ -392,5 +392,8 @@
     <ClCompile Include="level\Bronze\5\10807_개수세기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="level\Bronze\3\5597_과제안내신분.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
