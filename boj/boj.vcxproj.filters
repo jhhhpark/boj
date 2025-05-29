@@ -407,5 +407,8 @@
     <ClCompile Include="level\Bronze\3\2754_학점계산.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="level\Bronze\3\11718_그대로출력하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
