@@ -383,5 +383,11 @@
     <ClCompile Include="class2\30802_웰컴키트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="level\Bronze\5\2420_사파리월드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="level\Bronze\5\11382_꼬마정민.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
