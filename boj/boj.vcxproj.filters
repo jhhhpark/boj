@@ -428,5 +428,8 @@
     <ClCompile Include="class3\21736_donkey_needs_friend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\30804_fruit_tanghulu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
