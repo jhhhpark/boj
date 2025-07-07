@@ -425,5 +425,8 @@
     <ClCompile Include="class3\2640_make_colored_paper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\21736_donkey_needs_friend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
