@@ -437,5 +437,8 @@
     <ClCompile Include="class3\16928_snakes_and_ladders_game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class3\14500_tetromino.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
