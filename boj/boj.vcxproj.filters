@@ -443,5 +443,8 @@
     <ClCompile Include="class4\15650_n_and_m_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class4\15652_n_and_m_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
