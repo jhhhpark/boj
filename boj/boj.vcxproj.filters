@@ -455,5 +455,8 @@
     <ClCompile Include="class4\16953_a_of_b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class4\1149_rgb_distance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
