@@ -461,5 +461,8 @@
     <ClCompile Include="class4\11053_longest_increasing_subsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class4\1629_multiplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
