@@ -470,5 +470,8 @@
     <ClCompile Include="class4\1991_tree_traversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class4\9465_sticker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
